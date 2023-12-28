@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+발표 자료 : https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing
 <!--
 
 **Here are some ideas to get you started:**
