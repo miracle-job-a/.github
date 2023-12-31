@@ -42,13 +42,14 @@
 
 ## CI/CD 파이프라인
 <img width="932" alt="image" src="https://github.com/miracle-job-a/.github/assets/58586365/1c782f35-8487-467c-ba4c-03ae262ef062">
+
 - 개발자가 Github에 푸시를 하면 Webhook을 통해 Jenkins에 이벤트 발생을 알립니다.
 - Jenkins는 pipeline에 따라 지정된 Github Repository를 Clone 후, 서비스를 Build하여 배포합니다. 이후 배포 결과를 개발자에게 Slack을 통해 성공/실패 여부를 메세지로 알립니다.
 - Config-Server를 구현하여 개발환경과 운영환경을 분리하였습니다. 각 설정 파일은 private Repository에서 읽어오도록 하였습니다.
 - Eureka-Server를 통해 각 Micro Service들이 서로 찾고 통신할 수 있도록 합니다. 따라서 모든 서비스들은 Eureka-Server에 등록되도록 하였습니다.
 - Admin, Company, User Service는 Micro Service로 API를 통해 정보를 반환합니다. 각 서비스들은 RDS와 S3에 접근하여 DB 접근 및 파일 업로드 및 다운로드를 할 수 있도록 하였습니다.
 - Util Service는 위 3개 메인 서비스들을 보조하는 부가 기능이 구현된 서비스 입니다.
-- 
+- Gateway Service는 유저와의 접점이자, 각 서비스들을 호출하여 반환받은 정보를 렌더링하여 유저에게 내보내는 서비스 입니다. 따라서 안전한 통신이 될수 있도록 https를 적용하였습니다.
 
 
 
