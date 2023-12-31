@@ -55,10 +55,10 @@
 
 <table>
   <th> </th>
-  <th>Admin/Company Team</th>
-  <th>Gateway Team</th>
-  <th>User Team</th>
-  <th>TF Team</th>
+  <th width=220>Admin/Company Team</th>
+  <th width=220>Gateway Team</th>
+  <th width=220>User Team</th>
+  <th width=220>TF Team</th>
   <tr>
     <td>내용</td>
     <td>
@@ -89,47 +89,54 @@
 </table>
 
 
+> 강동희
+- User Team 리더
+- User API 개발
+- Java 교육 담당(?)
+- DB / Entity 설계
+- Swagger 적용
+- JWT Token 적용
+- API 공통 Response Model 설계
+
+> 김민지
+- User API 개발
+- Google Chart 적용
+
+> 김준영
+- Gateway Team 리더
+- Gateway Service 개발
+- ServiceCall Model 설계
+- AWS S3 적용
+- 이메일 인증 적용 (SMTP)
+  
+> 박기철
+- Gateway Service 개발
+- Front-end 담당
+- Daum 주소 API 적용
+
+> 박정민
+- Admin/Company API 개발
+- Google Chart 적용
+
+
 > 전총명
 - Project Scrum master
 - Admin/Company Team 리더
 - Admin/Company API 개발
 - AWS EC2 / RDS 적용
-- Jenkins CI/CD 구축
-- Slack 알림 구축 (배포 알림 / 코딩테스트 10분 전 알림)
-- Eureka Server 구축
 - Config Server 구축
+- Eureka Server 구축
+- Jenkins CI/CD 구축
+- Slack 알림 적용 (배포 알림 / 코딩테스트 10분 전 알림)
 - Grafana 적용
 - Prometheus 적용
 - 암호화 적용 (AES/SHA-3)
 - Google Login SSO 적용 (Firebase API)
 - 휴대전화 인증 적용 (Firebase API)
 - Kakao Map API 적용
+- Https 적용 (Gateway on EC2)
 
-> 박정민
-- Admin/Company API 개발
-- Google Chart 적용
-- 
-
-> 김준영
-- Gateway Team 리더
-- Gateway Service 개발
-- ServiceCall Model 설계
-  
-> 박기철
-- Gateway Service 개발
-- Front-end 담당
-
-> 강동희
-- User Team 리더
-- User API 개발
-- DB / Entity 설계
-- Swagger 적용
-- JWT Token 적용
-- API Response Model 설계
-
-> 김민지
-- User API 개발
-- Google Chart 적용
+## 협업 방식
 
 발표 자료 : https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing
 <!--
