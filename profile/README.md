@@ -51,6 +51,85 @@
 - Gateway Service는 유저와의 접점이자, 각 서비스들을 호출하여 반환받은 정보를 렌더링하여 유저에게 내보내는 서비스 입니다. 따라서 안전한 통신이 될수 있도록 https를 적용하였습니다.
 
 
+## 담당 파트
+
+<table>
+  <th> </th>
+  <th>Admin/Company Team</th>
+  <th>Gateway Team</th>
+  <th>User Team</th>
+  <th>TF Team</th>
+  <tr>
+    <td>내용</td>
+    <td>
+      <ul>
+        <li>[리더]전총명</li>
+        <li>박정민</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>[리더]김준영</li>
+        <li>박기철</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>[리더]강동희</li>
+        <li>김민지</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>[리더]전총명</li>
+        <li>김준영</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+> 전총명
+- Project Scrum master
+- Admin/Company Team 리더
+- Admin/Company API 개발
+- AWS EC2 / RDS 적용
+- Jenkins CI/CD 구축
+- Slack 알림 구축 (배포 알림 / 코딩테스트 10분 전 알림)
+- Eureka Server 구축
+- Config Server 구축
+- Grafana 적용
+- Prometheus 적용
+- 암호화 적용 (AES/SHA-3)
+- Google Login SSO 적용 (Firebase API)
+- 휴대전화 인증 적용 (Firebase API)
+- Kakao Map API 적용
+
+> 박정민
+- Admin/Company API 개발
+- Google Chart 적용
+- 
+
+> 김준영
+- Gateway Team 리더
+- Gateway Service 개발
+- ServiceCall Model 설계
+  
+> 박기철
+- Gateway Service 개발
+- Front-end 담당
+
+> 강동희
+- User Team 리더
+- User API 개발
+- DB / Entity 설계
+- Swagger 적용
+- JWT Token 적용
+- API Response Model 설계
+
+> 김민지
+- User API 개발
+- Google Chart 적용
 
 발표 자료 : https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing
 <!--
