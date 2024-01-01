@@ -1,11 +1,10 @@
-## Hi there 👋
-
 ## Project : Job-a
 개발자를 위한 취업 플랫폼 - OPEN API를 활용한 MSA 프로젝트
 
 
 ## 서비스 소개
-- 개발자가 원하는 조건에 해당하는 공고를 찾을 수 있는 서비스입니다.
+- 개발자를 위한 취업 플랫폼 서비스입니다.
+- 스택, 직무, 근무지역, 경력을 조건으로 원하는 공고를 검색할 수 있습니다.
 - 종료된 공고도 유저에게 계속 보이도록 하여, 원하는 기업 또는 원하는 직종에서 어떤 스택이나 기술을 요구하는지 미리 파악하고 준비할 수 있도록 하였습니다.
 - 작은 기업도 쉽게 코딩테스트 바탕으로 블라인드 채용 서비스를 지원합니다.
 - 공고에 지원한 이력서, 자기소개서, 면접 내용을 공고 별로 한 번에 관리할 수 있도록 하였습니다.
@@ -26,7 +25,7 @@
 - Back-end : Java 11, Springboot 2.7.17, 
 - DB : Mysql 8.0.33
 - Collaboration : ERD cloud, Figma, Github, Github project, Slack, OneDrive
-- Server : Tomcat, Nginx
+
   
 ## 사용 기술 / API
 - AWS EC2 / RDS / S3
@@ -138,7 +137,16 @@
 
 ## 협업 방식
 
-발표 자료 : https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing
+Figma
+ERD Cloud
+
+
+[Figma]()
+[ERD Cloud](https://www.erdcloud.com/d/NZKKeMscHHbw7Xpdf)
+[Github](https://github.com/orgs/miracle-job-a/repositories)
+[Github Project](https://github.com/orgs/miracle-job-a/projects/3)
+[발표자료](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing)
+
 <!--
 
 **Here are some ideas to get you started:**
