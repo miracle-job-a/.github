@@ -12,7 +12,7 @@
 
 ## 팀원 구성
 - [전총명](https://github.com/Kade-Jeon) / 스크럼마스터
-- 강동희
+- [강동희](https://github.com/chocolaggibbiddori)
 - 김민지
 - 김준영
 - 박기철
@@ -91,10 +91,11 @@
 > 강동희
 - User Team 리더
 - User API 개발
-- Java 교육 담당(?)
+- 팀 내 기술 교육 담당 (Java, Spring Framework, Git)
 - DB / Entity 설계
 - Swagger 적용
-- JWT Token 적용
+- JWT 서버 구축
+- JWT 기반 인증 필터 개발
 - API 공통 Response Model 설계
 
 > 김민지
