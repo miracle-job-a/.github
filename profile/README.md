@@ -1,6 +1,7 @@
 ## 프로젝트 : Job-a
-개발자를 위한 취업 플랫폼 - OPEN API를 활용한 MSA 프로젝트
-
+- 개발자를 위한 취업 플랫폼 - OPEN API를 활용한 MSA 프로젝트
+- 기간 : 2023.11.02 ~2023.12.20
+- [📑발표자료](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing)
 
 ## 서비스 소개
 - 개발자를 위한 취업 플랫폼 서비스입니다.
@@ -8,8 +9,10 @@
 - 종료된 공고도 유저에게 계속 보이도록 하여, 원하는 기업 또는 원하는 직종에서 어떤 스택이나 기술을 요구하는지 미리 파악하고 준비할 수 있도록 하였습니다.
 - 작은 기업도 쉽게 코딩테스트 바탕으로 인재를 뽑을 수 있는 블라인드 채용 서비스를 지원합니다.
 - 공고에 지원한 이력서, 자기소개서, 면접 내용을 공고 별로 한 번에 관리할 수 있도록 하였습니다.
+<!--
+## 기존 서비스와 차별점
 
-
+-->
 ## 팀원 구성
 
 <table>
@@ -192,19 +195,23 @@
 
 각 스프린트가 끝나면 회고를 통해 피드백이 다음 스프린트 플래닝에 반영될 수 있도록 하였습니다.
 
+- [🔍자세히 보기](https://github.com/orgs/miracle-job-a/projects/3)
+
 ## 협업 툴 활용
+
+웹 환경에서 6명 모두가 협업할 수 있도록 많은 툴을 최대한 활용했습니다.
 
 ERD Cloud를 이용해 엔티티 설계를 하였고 클라우드 환경에서 언제든 매핑 구조를 한 눈에 파악할 수 있었습니다.
 이후, Figma를 이용하여 화면을 스케치하며 초기 기획에서 빠진 기능이나 화면을 추가하였습니다.
 프로젝트가 시작되면서 Github을 이용하였고, Github Project를 이용해서 **Agile하게 협업을 진행**하였습니다.
-이후 Google Slide를 이용하여 최종 발표자료를 만들었습니다.
+이후 Google Slides를 이용하여 최종 발표자료를 만들었습니다.
 
 🔍 아래 항목을 클릭하면 우리가 협업한 기록을 자세히 볼 수 있습니다.
 - [ERD Cloud](https://www.erdcloud.com/d/NZKKeMscHHbw7Xpdf)
 - [Figma](https://www.figma.com/file/Qep8MMphIvGhBKXV0KlaRO/Job-a-for-Sharing?type=design&mode=design&t=PbEBNxXV4uaYYYD9-1)
 - [Github](https://github.com/orgs/miracle-job-a/repositories)
 - [Github Project](https://github.com/orgs/miracle-job-a/projects/3)
-- [Presentation](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing)
+- [Google Slides](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing)
 
 <!--
 
