@@ -11,7 +11,7 @@
 - 개발자를 위한 취업 플랫폼 서비스입니다.
 - 스택, 직무, 근무지역, 경력을 조건으로 원하는 공고를 검색할 수 있습니다.
 - 종료된 공고도 유저에게 계속 보이도록 하여, 원하는 기업 또는 원하는 직종에서 어떤 스택이나 기술을 요구하는지 미리 파악하고 준비할 수 있도록 하였습니다.
-- 작은 기업도 쉽게 코딩테스트 바탕으로 인재를 뽑을 수 있는 블라인드 채용 서비스를 지원합니다.
+- 작은 기업도 코딩테스트 바탕으로 인재를 뽑을 수 있는 블라인드 채용 서비스를 지원합니다.
 - 공고에 지원한 이력서, 자기소개서, 면접 내용을 공고 별로 한 번에 관리할 수 있도록 하였습니다.
 <!--
 ## 기존 서비스와 차별점
@@ -20,7 +20,6 @@
 ## 팀원 구성
 
 <table>
-  <th width=130> </th>
   <th width=200>1</th>
   <th width=200>2</th>
   <th width=200>3</th>
@@ -29,36 +28,33 @@
   <th width=200>6</th>
   <tr>
     <td>
-        <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
-    </td>
-    <td>
       <ul>
-          <a href="https://github.com/Kade-Jeon">🔗전총명</a>
+        <a href="https://github.com/Kade-Jeon"><img src="https://img.shields.io/badge/전총명-181717?style=flat&logo=github&logoColor=white" height=25px /></a>
       </ul>
     </td>
     <td>
       <ul>
-        <a href="https://github.com/chocolaggibbiddori">🔗강동희</a>
+        <a href="https://github.com/chocolaggibbiddori"><img src="https://img.shields.io/badge/강동희-181717?style=flat&logo=github&logoColor=white" height=25px /></a>
       </ul>
     </td>
     <td>
       <ul>
-        <a href="https://github.com/hazzokko">🔗김민지</a>
+        <a href="https://github.com/hazzokko"><img src="https://img.shields.io/badge/김민지-181717?style=flat&logo=github&logoColor=white" height=25px /></a>
       </ul>
     </td>
     <td>
       <ul>
-        <a href="https://github.com/kimjunyo">🔗김준영</a>
+        <a href="https://github.com/kimjunyo"><img src="https://img.shields.io/badge/김준영-181717?style=flat&logo=github&logoColor=white" height=25px /></a>
       </ul>
     </td>
         <td>
       <ul>
-        <a href="https://github.com/Hamel0">🔗박기철</a>        
+        <a href="https://github.com/Hamel0"><img src="https://img.shields.io/badge/박기철-181717?style=flat&logo=github&logoColor=white" height=25px /></a>  
       </ul>
     </td>
         <td>
       <ul>
-        <a href="https://github.com/wjdals3936">🔗박정민</a> 
+        <a href="https://github.com/wjdals3936"><img src="https://img.shields.io/badge/박정민-181717?style=flat&logo=github&logoColor=white" height=25px /></a>
       </ul>
     </td>
   </tr>
