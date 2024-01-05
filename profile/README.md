@@ -1,5 +1,6 @@
 ## 프로젝트 : Job-a
 - 개발자를 위한 취업 플랫폼 - OPEN API를 활용한 MSA 프로젝트
+- 팀 : Miracle
 - 기간 : 2023.11.02 ~2023.12.20
 
 [<img src="https://img.shields.io/badge/발표자료-FBBC04?style=flat&logo=googleslides&logoColor=white" height=25px />](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing)
@@ -132,8 +133,9 @@
   </tr>
 </table>
 
+> 시연이 가능한 기술/기능은 링크를 통해 영상으로 확인할 수 있습니다.
 
-> 강동희
+#### 강동희
 - User Team 리더
 - User API 개발
 - 팀 내 기술 교육 담당 (Java, Spring Framework, Git)
@@ -144,30 +146,31 @@
 - JWT 기반 인증 필터 개발
 - API 공통 Response Model 설계
 
-> 김민지
+#### 김민지
 - User API 개발
 - <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=737&end=763">Google Chart 적용</a>
 
-> 김준영
+#### 김준영
 - Gateway Team 리더
 - Gateway Service 개발
 - ServiceCall Model 설계
 - AWS S3 적용
 - <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=35&end=48">이메일 인증 적용 (SMTP)</a>
   
-> 박기철
+#### 박기철
 - Gateway Service 개발
 - Front-end 담당
 - <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=78&end=103">Daum 주소 API 적용</a>
 
-> 박정민
+#### 박정민
 - Admin/Company API 개발
 - <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=737&end=763">Google Chart 적용</a>
 
 
-> 전총명
+#### 전총명
 - Project Scrum master
 - Admin/Company Team 리더
+- Infra Team 리더
 - Admin/Company API 개발
 - AWS EC2 / RDS 적용
 - Config Server 구축
@@ -186,9 +189,9 @@
 경험이 부족한 상황에서 워터폴(Waterfall) 방식은 위험성이 크다고 판단하였습니다.
 최대한 설계에 공을 들이되, 우리가 부족했던 부분을 언제든 수정하고 반영할 수 있도록 변화에 적극적인 애자일 방식으로 협업을 진행하기로 하였습니다.
 
-협업에 앞서 스크럼 내 그라운드 룰을 정하여 협업이 더욱 공고히 진행되도록 하였습니다.
+협업에 앞서 스크럼(Scrum) 내 그라운드 룰(Ground rule)을 정하여 협업이 더욱 공고히 진행되도록 하였습니다.
 스프린트(Sprint)는 기본적으로 1주일 단위로 진행하였고, 프로젝트 후반부에는 2~3일 간격으로 짧게 스프린트를 진행하여 수정사항과 오류에 적극적으로 대응할 수 있도록 하였습니다.
-스프린트가 끝나고 스프린트 회고를 통해 백로그, 스토리포인트 등 우리 스크럼에 맞게 조정하여 다음 스프린트에 피드백이 반영될 수 있도록 하였습니다.
+스프린트가 끝나고 스프린트 회고를 통해 백로그(Backlog), 스토리포인트(Storypoint) 등 우리 스크럼에 맞게 조정하여 다음 스프린트에 피드백이 반영될 수 있도록 하였습니다.
 
 업무의 시작과 끝에 데일리체크인 / 체크아웃 (Daily Check-In / Check-Out)을 통해 각 개인의 개발현황, 브로커 등을 공유하도록 하였습니다.
 이를 바탕으로 칸반보드를 활용하여 누가 어떤 업무를 진행하고 있는지 시각적으로 보기 쉽게 공유할 수 있도록 하였습니다.
@@ -196,6 +199,7 @@
 각 스프린트가 끝나면 회고를 통해 피드백이 다음 스프린트 플래닝에 반영될 수 있도록 하였습니다.
 
 [🔍자세히 보기](https://github.com/orgs/miracle-job-a/projects/3)
+
 
 ## 협업 툴 활용
 
