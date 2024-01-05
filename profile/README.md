@@ -11,12 +11,56 @@
 
 
 ## 팀원 구성
-- [전총명](https://github.com/Kade-Jeon) / 스크럼마스터
-- [강동희](https://github.com/chocolaggibbiddori)
-- 김민지
-- 김준영
-- 박기철
-- 박정민
+
+<table>
+  <th width=130> </th>
+  <th width=200>1</th>
+  <th width=200>2</th>
+  <th width=200>3</th>
+  <th width=200>4</th>
+  <th width=200>5</th>
+  <th width=200>6</th>
+  <tr>
+    <td>
+        <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
+    </td>
+    <td>
+      <ul>
+        <p align="center">
+          <a href="https://github.com/Kade-Jeon">전총명</a>
+        </p>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/chocolaggibbiddori">강동희</a>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/hazzokko">김민지</a>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <a href="https://github.com/kimjunyo">김준영</a>
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/Hamel0">박기철</a>        
+      </ul>
+    </td>
+        <td>
+      <ul>
+        <a href="https://github.com/wjdals3936">박정민</a> 
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ## 개발 환경
 - OS : Mac, Windows
@@ -138,15 +182,12 @@
 
 ## 협업 방식
 
-Figma
-ERD Cloud
-
-
-[Figma]()
-[ERD Cloud](https://www.erdcloud.com/d/NZKKeMscHHbw7Xpdf)
-[Github](https://github.com/orgs/miracle-job-a/repositories)
-[Github Project](https://github.com/orgs/miracle-job-a/projects/3)
-[발표자료](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing)
+🔍 아래 항목을 클릭하면 우리가 협업한 기록을 자세히 볼 수 있습니다. 
+- [Figma](https://www.figma.com/file/Qep8MMphIvGhBKXV0KlaRO/Job-a-for-Sharing?type=design&mode=design&t=PbEBNxXV4uaYYYD9-1)
+- [ERD Cloud](https://www.erdcloud.com/d/NZKKeMscHHbw7Xpdf)
+- [Github](https://github.com/orgs/miracle-job-a/repositories)
+- [Github Project](https://github.com/orgs/miracle-job-a/projects/3)
+- [발표자료](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing)
 
 <!--
 
