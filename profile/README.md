@@ -139,29 +139,30 @@
 - 팀 내 기술 교육 담당 (Java, Spring Framework, Git)
 - DB / Entity 설계
 - Swagger 적용
+- <a href="https://www.youtube.com/embed/paDDNcOIIPI?autoplay=1&controls=0&start=83&end=96">JWT 토큰 적용
 - JWT 서버 구축
 - JWT 기반 인증 필터 개발
 - API 공통 Response Model 설계
 
 > 김민지
 - User API 개발
-- Google Chart 적용
+- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=737&end=763">Google Chart 적용</a>
 
 > 김준영
 - Gateway Team 리더
 - Gateway Service 개발
 - ServiceCall Model 설계
 - AWS S3 적용
-- 이메일 인증 적용 (SMTP)
+- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=35&end=48">이메일 인증 적용 (SMTP)</a>
   
 > 박기철
 - Gateway Service 개발
 - Front-end 담당
-- Daum 주소 API 적용
+- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=78&end=103">Daum 주소 API 적용</a>
 
 > 박정민
 - Admin/Company API 개발
-- Google Chart 적용
+- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=737&end=763">Google Chart 적용</a>
 
 
 > 전총명
@@ -173,8 +174,7 @@
 - Eureka Server 구축
 - Jenkins CI/CD 구축
 - Slack 알림 적용 (배포 알림 / 코딩테스트 10분 전 알림)
-- Grafana 적용
-- Prometheus 적용
+- Prometheus / Grafana 적용
 - 암호화 적용 (AES/SHA-3)
 - Google Login SSO 적용 (Firebase API)
 - 휴대전화 인증 적용 (Firebase API)
@@ -195,7 +195,7 @@
 
 각 스프린트가 끝나면 회고를 통해 피드백이 다음 스프린트 플래닝에 반영될 수 있도록 하였습니다.
 
-- [🔍자세히 보기](https://github.com/orgs/miracle-job-a/projects/3)
+[🔍자세히 보기](https://github.com/orgs/miracle-job-a/projects/3)
 
 ## 협업 툴 활용
 
