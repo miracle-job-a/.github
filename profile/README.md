@@ -178,14 +178,33 @@
 - Kakao Map API 적용
 - Https 적용 (Gateway on EC2)
 
-## 협업 방식
+## 협업 방식 - 애자일(Agile)
 
-🔍 아래 항목을 클릭하면 우리가 협업한 기록을 자세히 볼 수 있습니다. 
-- [Figma](https://www.figma.com/file/Qep8MMphIvGhBKXV0KlaRO/Job-a-for-Sharing?type=design&mode=design&t=PbEBNxXV4uaYYYD9-1)
+경험이 부족한 상황에서 워터폴(Waterfall) 방식은 위험성이 크다고 판단하였습니다.
+최대한 설계에 공을 들이되, 우리가 부족했던 부분을 언제든 수정하고 반영할 수 있도록 변화에 적극적인 애자일 방식으로 협업을 진행하기로 하였습니다.
+
+협업에 앞서 스크럼 내 그라운드 룰을 정하여 협업이 더욱 공고히 진행되도록 하였습니다.
+스프린트(Sprint)는 기본적으로 1주일 단위로 진행하였고, 프로젝트 후반부에는 2~3일 간격으로 짧게 스프린트를 진행하여 수정사항과 오류에 적극적으로 대응할 수 있도록 하였습니다.
+스프린트가 끝나고 스프린트 회고를 통해 백로그, 스토리포인트 등 우리 스크럼에 맞게 조정하여 다음 스프린트에 피드백이 반영될 수 있도록 하였습니다.
+
+업무의 시작과 끝에 데일리체크인 / 체크아웃 (Daily Check-In / Check-Out)을 통해 각 개인의 개발현황, 브로커 등을 공유하도록 하였습니다.
+이를 바탕으로 칸반보드를 활용하여 누가 어떤 업무를 진행하고 있는지 시각적으로 보기 쉽게 공유할 수 있도록 하였습니다.
+
+각 스프린트가 끝나면 회고를 통해 피드백이 다음 스프린트 플래닝에 반영될 수 있도록 하였습니다.
+
+## 협업 툴 활용
+
+ERD Cloud를 이용해 엔티티 설계를 하였고 클라우드 환경에서 언제든 매핑 구조를 한 눈에 파악할 수 있었습니다.
+이후, Figma를 이용하여 화면을 스케치하며 초기 기획에서 빠진 기능이나 화면을 추가하였습니다.
+프로젝트가 시작되면서 Github을 이용하였고, Github Project를 이용해서 **Agile하게 협업을 진행**하였습니다.
+이후 Google Slide를 이용하여 최종 발표자료를 만들었습니다.
+
+🔍 아래 항목을 클릭하면 우리가 협업한 기록을 자세히 볼 수 있습니다.
 - [ERD Cloud](https://www.erdcloud.com/d/NZKKeMscHHbw7Xpdf)
+- [Figma](https://www.figma.com/file/Qep8MMphIvGhBKXV0KlaRO/Job-a-for-Sharing?type=design&mode=design&t=PbEBNxXV4uaYYYD9-1)
 - [Github](https://github.com/orgs/miracle-job-a/repositories)
 - [Github Project](https://github.com/orgs/miracle-job-a/projects/3)
-- [발표자료](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing)
+- [Presentation](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing)
 
 <!--
 
