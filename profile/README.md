@@ -1,5 +1,6 @@
 ## Project : Job-a
-개발자를 위한 취업 플랫폼 - OPEN API를 활용한 MSA 프로젝트
+- 개발자를 위한 취업 플랫폼 - OPEN API를 활용한 MSA 프로젝트 <br/>
+- 진행 기간 :  2023-11-02 ~ 2023-12-20
 
 
 ## 서비스 소개
@@ -10,13 +11,13 @@
 - 공고에 지원한 이력서, 자기소개서, 면접 내용을 공고 별로 한 번에 관리할 수 있도록 하였습니다.
 
 
-## 팀원 구성
+## 스크럼 구성
 - [전총명](https://github.com/Kade-Jeon) / 스크럼마스터
 - [강동희](https://github.com/chocolaggibbiddori)
 - 김민지
 - 김준영
 - 박기철
-- 박정민
+- [박정민](https://github.com/wjdals3936)
 
 ## 개발 환경
 - OS : Mac, Windows
@@ -87,7 +88,6 @@
   </tr>
 </table>
 
-
 > 강동희
 - User Team 리더
 - User API 개발
@@ -117,7 +117,6 @@
 > 박정민
 - Admin/Company API 개발
 - Google Chart 적용
-
 
 > 전총명
 - Project Scrum master
