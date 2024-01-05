@@ -1,9 +1,10 @@
 ## 프로젝트 : Job-a
 - 개발자를 위한 취업 플랫폼 - OPEN API를 활용한 MSA 프로젝트
 - 기간 : 2023.11.02 ~2023.12.20
-- [📑발표자료](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing)
-- [🎬시연영상(PPT Ver.)](https://youtu.be/paDDNcOIIPI?si=ycswEN_LMdLpfMZt)
-- [🎬시연영상(Full Ver.)](https://www.youtube.com/watch?v=gh4Vesk6inA)
+
+[<img src="https://img.shields.io/badge/발표자료-FBBC04?style=flat&logo=googleslides&logoColor=white" height=25px />](https://docs.google.com/presentation/d/1jejjYaOX7zgKc46VwrFa2iFXk3mYz3fmFcPIo4kj1AU/edit?usp=sharing)
+[<img src="https://img.shields.io/badge/시연영상(PPT Ver.)-FF0000?style=flat&logo=youtube&logoColor=white" height=25px />](https://youtu.be/paDDNcOIIPI?si=ycswEN_LMdLpfMZt)
+[<img src="https://img.shields.io/badge/시연영상(Full Ver.)-FF0000?style=flat&logo=youtube&logoColor=white" height=25px />](https://www.youtube.com/watch?v=gh4Vesk6inA)
 
 
 ## 서비스 소개
