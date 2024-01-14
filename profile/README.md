@@ -140,7 +140,7 @@
 - User API 개발
 - 팀 내 기술 교육 담당 (Java, Spring Framework, Git)
 - DB / Entity 설계
-- Swagger 적용
+- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=836&end=940">Swagger 적용 및 공유</a>
 - <a href="https://www.youtube.com/embed/paDDNcOIIPI?autoplay=1&controls=0&start=83&end=96">JWT 토큰 적용
 - JWT 서버 구축
 - JWT 기반 인증 필터 개발
@@ -173,15 +173,15 @@
 - Infra Team 리더
 - Admin/Company API 개발
 - AWS EC2 / RDS 적용
-- Config Server 구축
-- Eureka Server 구축
+- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=949&end=999">Config Server 구축</a>
+- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=941&end=948">Eureka Server 구축</a>
 - Jenkins CI/CD 구축
-- Slack 알림 적용 (배포 알림 / 코딩테스트 10분 전 알림)
-- Prometheus / Grafana 적용
-- 암호화 적용 (AES/SHA-3)
-- Google Login SSO 적용 (Firebase API)
-- 휴대전화 인증 적용 (Firebase API)
-- Kakao Map API 적용
+- Slack 알림 적용 (<a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=1000&end=1019">배포 알림</a> / <a href="https://www.youtube.com/embed/paDDNcOIIPI?autoplay=1&controls=0&start=29&end=57">코딩테스트 10분 전 알림</a>)
+- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=686&end=717">Prometheus</a> / <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=722&end=737">Grafana </a> 적용
+- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=1037&end=1057">암호화 적용 및 공유 (AES/SHA-3)</a>
+- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=365&end=386">Google Login SSO 적용 (Firebase API)</a>
+- <a href="https://www.youtube.com/embed/paDDNcOIIPI?autoplay=1&controls=0&start=13&end=25">휴대전화 인증 적용 (Firebase API)</a>
+- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=16&end=24">Kakao Map API 적용</a>
 - Https 적용 (Gateway on EC2)
 
 ## 협업 방식 - 애자일(Agile)
