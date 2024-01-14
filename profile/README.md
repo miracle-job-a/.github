@@ -21,7 +21,7 @@
 ## 팀원 구성
 
 <table>
-  <th width=200>1</th>
+  <th width=200><img src="https://github.com/Kade-Jeon/Kade-Jeon/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true"</th>
   <th width=200>2</th>
   <th width=200>3</th>
   <th width=200>4</th>
