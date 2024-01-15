@@ -21,8 +21,8 @@
 ## 팀원 구성
 
 <table>
-  <th width=200><img src="https://github.com/Kade-Jeon/Kade-Jeon/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true"</th>
-  <th width=200>2</th>
+  <th width=200><img src="https://github.com/Kade-Jeon/Kade-Jeon/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true"></th>
+  <th width=200><img src="https://raw.githubusercontent.com/chocolaggibbiddori/chocolaggibbiddori/main/AI%20%EC%A7%A4.webp"></th>
   <th width=200>3</th>
   <th width=200>4</th>
   <th width=200>5</th>
@@ -137,14 +137,14 @@
 
 #### 강동희
 - User Team 리더
-- User API 개발
-- 팀 내 기술 교육 담당 (Java, Spring Framework, Git)
-- DB / Entity 설계
-- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=836&end=940">Swagger 적용 및 공유</a>
-- <a href="https://www.youtube.com/embed/paDDNcOIIPI?autoplay=1&controls=0&start=83&end=96">JWT 토큰 적용
-- JWT 서버 구축
-- JWT 기반 인증 필터 개발
-- API 공통 Response Model 설계
+- [User API 개발](https://github.com/chocolaggibbiddori/miracle-job-a-user-service)
+- [팀 내 기술 교육 담당 (Java, Spring Framework, Git)](https://chocolaggibbiddori.github.io)
+- [DB / Entity 설계](https://www.erdcloud.com/d/YggNYyuaENxFEr27R)
+- [Swagger 적용 및 공유](https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=836&end=940)
+- [JWT 토큰 적용](https://www.youtube.com/embed/paDDNcOIIPI?autoplay=1&controls=0&start=83&end=96)
+- [JWT 서버 구축](https://github.com/chocolaggibbiddori/miracle-job-a-util-service)
+- [JWT 기반 인증 필터 개발](https://github.com/chocolaggibbiddori/miracle-job-a-gateway-service)
+- [API 공통 Response Model 설계](https://github.com/chocolaggibbiddori/miracle-job-a-user-service)
 
 #### 김민지
 - User API 개발
