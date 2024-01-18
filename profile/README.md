@@ -183,6 +183,7 @@
 - <a href="https://www.youtube.com/embed/paDDNcOIIPI?autoplay=1&controls=0&start=13&end=25">휴대전화 인증 적용 (Firebase API)</a>
 - <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=16&end=24">Kakao Map API 적용</a>
 - Https 적용 (Gateway on EC2)
+- 도메인 적용
 
 ## 협업 방식 - 애자일(Agile)
 
