@@ -24,7 +24,7 @@
   <th width=200><img src="https://github.com/Kade-Jeon/Kade-Jeon/blob/main/%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5.png?raw=true"></th>
   <th width=200><img src="https://raw.githubusercontent.com/chocolaggibbiddori/chocolaggibbiddori/main/AI%20%EC%A7%A4.webp"></th>
   <th width=200>3</th>
-  <th width=200>4</th>
+  <th width=200><img src="https://github.com/kimjunyo/kimjunyo/blob/main/Avatar-Maker.png"></th>
   <th width=200>5</th>
   <th width=200>6</th>
   <tr>
