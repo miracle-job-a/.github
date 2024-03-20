@@ -26,7 +26,7 @@
   <th width=200>3</th>
   <th width=200><img src="https://github.com/kimjunyo/kimjunyo/blob/main/Avatar-Maker%20(2).png"></th>
   <th width=200>5</th>
-  <th width=200>6</th>
+  <th width=200><img src="https://github.com/wjdals3936/wjdals3936/assets/101387993/dc36c6d0-c491-4e09-8292-93420c182a8f"></th>
   <tr>
     <td>
       <ul>
