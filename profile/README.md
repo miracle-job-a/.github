@@ -173,6 +173,7 @@
 - Infra Team 리더
 - Admin/Company API 개발
 - AWS EC2 / RDS 적용
+- AWS EC2 서버 관리
 - <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=949&end=999">Config Server 구축</a>
 - <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=941&end=948">Eureka Server 구축</a>
 - Jenkins CI/CD 구축
