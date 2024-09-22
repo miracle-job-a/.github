@@ -156,6 +156,7 @@
 - ServiceCall Model 설계
 - AWS S3 적용
 - <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=35&end=48">이메일 인증 적용 (SMTP)</a>
+- 시연 영상 제작
   
 #### 박기철
 - Gateway Service 개발
